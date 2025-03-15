@@ -8,4 +8,4 @@ eureka:
       defaultZone: http://localhost:8761/eureka/
 
 application:
-    name: Config-default
+    name: CONFIG-DEFAULT
